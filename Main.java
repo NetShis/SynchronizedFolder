@@ -22,10 +22,10 @@ public class Main {
         FileHandler fileHandler = null;
 
         //Параметры для подключения к ftp серверу
-        String ftpsServer = "10.54.1.213";
+        String ftpsServer = "";
         int ftpsPort = 21;
-        String ftpsUser = "komiufps";
-        String ftpsPass = "9tsksls5PB";
+        String ftpsUser = "";
+        String ftpsPass = "";
 
         //Название папки на компьютере, которая будет синхронизироваться с папкой на ftp
         //Папка на ftp названа так же
